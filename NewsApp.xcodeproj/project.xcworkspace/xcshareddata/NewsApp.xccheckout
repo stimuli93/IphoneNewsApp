@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>040D23B3-CCE2-4548-9C47-982F33412AC8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NewsApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00F35A4D6962809E9EA3AB0ED3EE56BB115CFE98</key>
+		<string>https://github.com/stimuli93/NewsApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NewsApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00F35A4D6962809E9EA3AB0ED3EE56BB115CFE98</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stimuli93/NewsApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00F35A4D6962809E9EA3AB0ED3EE56BB115CFE98</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00F35A4D6962809E9EA3AB0ED3EE56BB115CFE98</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewsApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
